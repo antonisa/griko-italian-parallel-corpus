@@ -1,4 +1,0 @@
-107.words
-275.words
-300.words
-76.words
