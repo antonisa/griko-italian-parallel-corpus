@@ -5,4 +5,4 @@ This repository contain a (very) small parallel speech corpus between the endang
 The dataset is made available to the community for reproducible computational language documentation experiments and their evaluation. 
 
 
-* Reference: "A small Griko-Italian speech translation corpus", Marcely ZANON BOITO, Antonios ANASTASOPOULOS, Marika LEKAKOU, Aline VILLAVICENCIO, Laurent BESACIER, SLTU 2018, Gurgaon, India.
+* **Reference**: _"A small Griko-Italian speech translation corpus"_, Marcely ZANON BOITO, Antonios ANASTASOPOULOS, Marika LEKAKOU, Aline VILLAVICENCIO, Laurent BESACIER, SLTU 2018, Gurgaon, India.
