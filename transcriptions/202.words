@@ -1,1 +1,0 @@
-ìse già famèna
