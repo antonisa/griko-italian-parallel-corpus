@@ -1,6 +1,6 @@
 # Griko Italian Parallel Corpus
 
-This repository contain a (very) small parallel speech corpus between the endangered language Griko and Italian. It is made of 330 sentences, with the following information levels: speech,  machine  extracted  pseudo-phones,  transcriptions,  translations and sentence alignment. A reference for evaluation following Track 2 of the Zero Resource Challenge 2017 is available [click here](https://github.com/mzboito/ZRC_corpora) in two formats, with and without silence marks information.
+This repository contain a (very) small parallel speech corpus between the endangered language Griko and Italian. It is made of 330 sentences, with the following information levels: speech,  machine  extracted  pseudo-phones,  transcriptions,  translations and sentence alignment. A reference for evaluation following Track 2 of the Zero Resource Challenge 2017 is available [here](https://github.com/mzboito/ZRC_corpora) in two formats, with and without silence marks information.
 
 The dataset is made available to the community for reproducible computational language documentation experiments and their evaluation. 
 
