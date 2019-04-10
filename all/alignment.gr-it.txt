@@ -1,0 +1,330 @@
+ìcha na aforàso to tsomì {##} dovevo comprare il pane {##} 0-0 1-1 2-1 3-2 4-3
+mbìke apò ttu {##} entrò da qui {##} 0-0 1-1 2-2
+ìsose èmbi àtti finèstra {##} ha potuto entrare dalla finestra {##} 0-0 0-1 1-2 2-3 3-4
+ìsoze èmbi {##} poteva entrare {##} 0-0 1-1
+epènsetse ka o làdro mbìke àtti finèstra {##} ha pensato che il ladro è entrato dalla finestra {##} 0-0 0-1 1-2 2-3 3-4 4-5 4-6 5-7 6-8
+ce fòrsi è\' na mbìke àtti finèstra o làdro {##} e forse è entrato dalla finestra il ladro {##} 0-0 1-1 2-2 3-3 4-3 5-4 6-5 7-6 8-7
+ènghise na mbi apò ttù {##} deve che entra da qui {##} 0-0 1-1 2-2 3-3 4-4
+kanonìsete k o làdro ke o làdro embìke apò ttu ka èchi ta simàdia {##} guardate che il ladro che il ladro è entrato da qui che ci sono i segni {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 7-8 8-9 9-9 9-10 10-9 10-11 11-9 11-12 11-13 12-9 12-14 13-9 13-15
+o làdro imbìke apò ttu {##} il ladro è entrato da qui {##} 0-0 1-1 2-2 2-3 3-4 4-5
+o làdro ìsoze èmbi apò ttu {##} il ladro poteva entrare da qui {##} 0-0 1-1 2-2 3-3 4-4 5-5
+allòra fèti p òrkete èrkome mapàle ettù ce tròo poddù pasticciòttu {##} allora questo anno che viene vengo nuovamente qui e mangio molti pasticciotti {##} 0-0 1-1 1-2 2-3 3-4 4-5 5-6 6-7 7-8 8-9 9-10 10-11
+isoggèste ka mbìke apò ttu {##} è possibile che è entrato da qui {##} 0-0 0-1 1-2 2-3 2-4 3-5 4-6
+è\' na mbìke apò ttu {##} è che è entrato da qui {##} 0-0 1-1 2-2 2-3 3-4 4-5
+ifènete ka o làdro mbìke apò ttu {##} sembra che il ladro è entrato da qui {##} 0-0 1-1 2-2 3-3 4-4 4-5 5-6 6-7
+ettù sto spìti èchi o lùstro anammèno signifikèi ka ankòra stèone tsùnniti en ì plomèno {##} qui nella casa ha la luce accesa significa che ancora stanno svegli non sono addormentati {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14
+fòrsi stèone ankòra atsùnniti {##} forse stanno ancora svegli {##} 0-0 1-1 2-2 3-3
+è\' na stasùn ankòra atsùnniti ka èchi o lùstro anammèno {##} è che sono ancora svegli che ha la luce accesa {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9
+è\' na stasùne ankòra ortì {##} è che stanno ancora alzati {##} 0-0 1-1 2-2 3-3 4-4
+ettù ankòra stèon m\' o lìmo anammèno ce estèone assùnniti {##} qui ancora stanno con la luce accesa e stanno svegli {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9
+isòzone ìne ankòra atsùnniti {##} possono essere ancora svegli {##} 0-0 1-1 2-2 3-3
+sikuramènte stèone ankòra atsùnniti {##} sicuramente stanno ancora svegli {##} 0-0 1-1 2-2 3-3
+o chròno ka mbènni è\' na fào poddhà glicèa {##} l' anno che viene devo mangiare molti dolci {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-5 7-6 8-7
+è\' na statùne ankòra atsùnniti {##} è che stanno ancora svegli {##} 0-0 1-1 2-2 3-3 4-4
+isòzi ka ìne ankòra atsùnniti {##} può che sono ancora svegli {##} 0-0 1-1 2-2 3-3 4-4
+pistèo ka stèone ankòra atsùnniti {##} credo che stanno ancora svegli {##} 0-0 1-1 2-2 3-3 4-4
+è fàcile ka stèone ankòra atsùnniti {##} è facile che stanno ancora svegli {##} 0-0 1-1 2-2 3-3 4-4 5-5
+è\' na guìkane {##} è che sono usciti {##} 0-0 1-1 2-2 2-3
+fòrsi e\' tus èchi èssu {##} forse non li ha a casa {##} 0-0 1-1 2-2 3-3 4-4 4-5
+è\' na guìkane {##} ha che sono usciti {##} 0-0 1-1 2-2 2-3
+fòrsi egguìkane {##} forse sono usciti {##} 0-0 1-1 1-2
+a\' telìsi na zìsi na min ìse liparò nghìzi na fài alìo {##} se vuoi vivere non essere grasso bisogna mangiare poco {##} 0-0 1-1 2-2 3-2 5-3 6-4 7-5 8-6 9-7 10-7 11-8
+mi\' fai o vrài {##} non mangiare la sera {##} 0-0 1-1 2-2 3-3
+fèo pp\' òrkete etròo pòssa tèlo {##} quest' anno che viene mangio quanti voglio {##} 0-0 0-1 1-2 2-3 3-4 4-5 5-6
+en è\' na fài to vrài {##} non deve magniare la sera {##} 0-0 1-1 2-2 3-2 4-3 5-4
+a\' telìsi na mìni pànta lettò mi fài to vrài {##} se vuoi restare sempre magro non magniare la sera {##} 0-0 1-1 2-2 3-2 4-3 5-4 6-5 7-6 8-7 9-8
+o spìti o fabbrikètsane e fabbrikatùri {##} la casa la costruirono i muratori {##} 0-0 1-1 2-2 3-3 4-4 5-5
+o spìti o fabbrikèi o màscia {##} la casa la costruisce il mastro {##} 0-0 1-1 2-2 3-3 4-4 5-5
+tùtto spìti to fabbrikètsano pettìnta chrònu ampì {##} questa casa la costruirono cinquanta anni fa {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6
+tùo o frabbikèssano mastòri ka ìane e frabbikatòri {##} questa la costruirono mastri che erano i muratori {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7
+to spìti to fabbrikèone i fabbrikatòri {##} la casa la costruiscono i muratori {##} 0-0 1-1 2-2 3-3 4-4 5-5
+èrkete fabbrikàto {##} viene fabbricato {##} 0-0 1-1
+dòpo Giovànni jùrise o vrài èssu ìbbie poddhì stràkko jatì ìche polemìsonta òli tin addomà {##} dopo Giovanni ritornò la sera a casa andava molto stanco perché aveva lavorato tutta la settimana {##} 0-0 1-1 2-2 3-3 4-4 5-5 5-6 6-7 7-8 8-9 9-10 10-11 11-12 12-13 13-14 14-15
+jatì ìche polemìsonta poddhì {##} perché aveva lavorato molto {##} 0-0 1-1 2-2 3-3
+evò o spìti o sòzo pulizzètsi kuài sàmba e màna- mu to pulìzze quài mèri jatì tù soze ìche i possibilità no kutètsi quài mèri {##} io la casa la posso pulire ogni sabato e mia mamma la puliva ogni giorno perché lo poteva aveva la possibilità di pagarlo ogni giorno {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-10 10-9 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18 19-19 20-20 21-21 22-22 23-23 24-24
+ìone poddhì stràkko {##} era molto stanco {##} 0-0 1-1 2-2
+dòpu o Giovànni jùrise èssu {##} dopo Giovanni é tornato a casa {##} 0-0 1-1 2-1 3-2 3-3 4-4 4-5
+mòtte o Giuvànni ìrte èssu to vrài ìbbie poddhì stràkko jài ìche polemìsonta òli tin addomà {##} quando Giovanni venne a casa la sera andava molto stanco perché aveva lavorato tutta la settimana {##} 0-0 1-1 2-1 3-2 4-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15
+ìche polemìsonta òli tin addomàda {##} aveva lavorato tutta la settimana {##} 0-0 1-1 2-2 3-3 4-4
+jatì ìche polemìsonta òli tin addomàda {##} perché aveva lavorato tutta la settimana {##} 0-0 1-1 2-2 3-3 4-4 5-5
+an evò ìcha dònta sìndeka ìcha anoìsonta ka ìche na vrètsi {##} se avevo visto nuvole avevo capito che stava per piovere {##} 0-0 1-1 2-1 3-2 4-3 5-4 6-5 7-6 8-7 9-8 10-9
+an ìche torìsonta e\' mante ìtsere ka vrèchi {##} se avevi visto le nuvole sapevi che piove {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7
+an ìche torìsonta cerò o cerò en ìche èrtonta na se gràni òlo {##} se avevi visto tempo il tempo non fossi venuto che ti bagna tutto {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-8 9-9 10-10 11-11 12-12
+an ìcha dònta ta sìnnefa ìcha anoìsonta ka vrèchi {##} se avessi visto le nuvole avrei capito che pioverà {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8
+an ìcha torìsonta o cerò ìcha torìsonta ta sìnnefa ce en ìcha ègguonta na me gràni {##} se avessi visto il tempo avessi visto le nuvole e non avevo uscito per bagnarmi {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-14
+àrtena ivò stèo studièo na ghettò messère {##} ora io sto studiando di diventare medico {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6
+kanonìsonta tes mànte ìtsere ka\' na vrètsi {##} guardando le nuvole sapevi che sta per piovere {##} 0-0 1-1 2-2 3-3 4-4 4-5 5-6 6-7
+an ìche torìsonta ta sìnnefa tes mànte ìche anoìsonta ka ìche na vrètsi {##} se aveva visto le nuvole le nuvole avrebbe capito che stava per piovere {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12
+kanonònta ta sìnnefa noò ka vrèchi {##} guardando le nuvole capisco che piove {##} 0-0 1-1 2-2 3-3 4-4 5-5
+kanonònta tes mànte anoò ka vrèchi {##} guardando le nuvole capisco che piove {##} 0-0 1-1 2-2 3-3 4-4 5-5
+en ècho pu è\' na pào {##} non ho dove d' andare {##} 0-0 1-1 2-2 3-3 4-4 5-4
+pu ìche na stasì en ìche {##} dove aveva per stare non aveva {##} 0-0 1-1 2-2 3-3 4-4 5-5
+en ìche na stasì {##} non aveva da stare {##} 0-0 1-1 2-2 3-3
+en ìche pu stasì {##} non aveva dove a stare {##} 0-0 1-1 2-2 3-3 3-4
+en ìssere pu na stasì {##} non sapeva dove a stare {##} 0-0 1-1 2-2 3-3 4-4
+en ìche pu ìche na statì {##} non aveva dove aveva per stare {##} 0-0 1-1 2-2 3-3 4-4 5-5
+àrtena ivò ste studièo na na màso na diventèsso maèstra {##} ora io sto studiando di di imparare di diventare maestra {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9
+en ìche pu statì {##} non aveva dove a stare {##} 0-0 1-1 2-2 3-3 3-4
+evò en ècho ti è\' na fào {##} io non ho cosa da mangiare {##} 0-0 1-1 2-2 3-3 4-4 5-4 6-5
+en èchi na fài {##} non ha da mangiare {##} 0-0 1-1 2-2 3-3
+en ècho ti è\' na fào {##} non ho cosa è da mangiare {##} 0-0 1-1 2-2 3-3 4-4 5-5
+evò en ècho tìpoti na fào {##} io non ho niente da mangiare {##} 0-0 1-1 2-2 3-3 4-4 5-5
+cìsi famìglia en èchi na fài {##} quella famiglia non ha da mangiare {##} 0-0 1-1 2-2 3-3 4-4 5-5
+en etsèro esù ti ste gràfi {##} non so cosa stai scrivendo {##} 0-0 1-1 3-2 4-3 5-4
+en etsèro ti gràfi {##} non so cosa scrive {##} 0-0 1-1 2-2 3-3
+evò en essèro ti e\' na gràsso {##} io non so cosa è da scrivere {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6
+sìmmeri evò en ècho ti kàmi {##} oggi io non ho cosa da fare {##} 0-0 1-1 2-2 3-3 4-4 5-5 5-6
+i aderfì- mmu fèti p òrkete e\' na studiètsi ja mèdiko {##} mia sorella quest' anno che vienne studierà per medico {##} 0-1 1-1 2-0 3-2 3-3 4-4 5-5 6-6 7-6 8-6 9-7 10-8
+en ìche ti kàmi {##} non aveva cosa a fare {##} 0-0 1-1 2-2 3-3 3-4
+en ècho ti kài {##} non ho cosa a fare {##} 0-0 1-1 2-2 3-3 3-4
+ècho ti kài {##} ho cosa a fare {##} 0-0 1-1 2-2 2-3
+en ècho ti kài {##} non ho cosa a fare {##} 0-0 1-1 2-2 3-3 3-4
+en ècho ti kàmi {##} non ho cosa a fare {##} 0-0 1-1 2-2 3-3 3-4
+su lèo èna pràma però mi milìsi ts\' ìtta pràmata mi\' Marìa {##} ti dico una cosa però non parlare di queste cose con Maria {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11
+en è\' na milìsi mbrò stin Anna àtse tùo {##} non deve parlare davanti a Anna di questo {##} 0-0 1-1 2-2 3-2 4-3 5-4 6-5 7-6 8-7
+sòzi min omilìsi a\' tùtto pràmma me tin Anna {##} puoi non parlare di questa cosa con Anna {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-7
+isòzi mi\' milìsi atsè tùo me tin Anna {##} puoi non parlare di questo con Anna {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-6
+ìtela èna bar m\' èna fùrno na kàni kalò rùstiku {##} voleva un bar con un forno che fa buoni rustici {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9
+allòra evò àrtena ste studièo tse maèstra ma ècho mia aderfì aderfì- mmu studièi fèto p òrkete ja mèdiko {##} allora io ora sto studiando di maestra ma ho una sorella mia sorella studia quest' anno che viene per medico {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-12 12-11 13-13 14-14 14-15 15-16 16-17 17-18 18-19
+tèlo èna fùrno ka pulì rùstiku {##} voglio un forno che vende rustici {##} 0-0 1-1 2-2 3-3 4-4 5-5
+pào cerkèonta èna fùrno ka kànni rùstiku {##} vado cercando un forno che fa rustici {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6
+ìsela na vrìko a fùrno ka kanni un rùstiko kalù {##} volevo trovare un forno che fa un rustico buono {##} 0-0 1-1 2-1 3-2 4-3 5-4 6-5 7-6 8-7 9-8
+èna\' fùrno ka ikànni tsomì kalò {##} un forno che fa buon pane {##} 0-0 1-1 2-2 3-3 4-5 5-4
+ipào vrìskonta na\' furno ka kànni to tsomì kalò ce en itsèro pu stèi {##} vado trovando un forno che fa pane buon e non so dove è {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-6 8-7 9-8 10-9 11-10 12-11 13-12
+ka ipulì tsomì kalò {##} che vende buon pane {##} 0-0 1-1 2-3 3-2
+pào cerkèonta èna màkina ka kunsumèi olì benzìna {##} vado cercando una macchina che consuma poca benzina {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7
+e Màrika jurèi mia màkina ka konsumèi kànni alìo konsùmo se benzìna {##} Marika cerca una macchina che consuma fa poco consumo in benzina {##} 0-0 1-0 2-1 3-2 4-3 5-4 6-5 7-6 8-7 9-8 10-9 11-10
+na konsumètsi alìo benzìna {##} che consuma poco benzina {##} 0-0 1-1 2-2 3-3
+evò sto derfò- mu en tu tò grazza mài ènan gràmma u derfù- mmu {##} io al mio fratello non gli lo scrissi mai una lettera al mio fratello {##} 0-0 1-1 2-3 3-2 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-13 13-12
+to chròno ka mbènni tin adreffì- mmu è\' na è\' na studiètsi medicìna {##} l' anno che viene mia sorella sta per sta per studiare medicina {##} 0-0 1-1 2-2 3-3 4-5 5-5 6-4 7-6 8-7 9-8 10-9 11-10 12-11
+ègratsa ènan gràmma u derfù- mmu {##} ho scritto una lettera al mio fratello {##} 0-0 0-1 1-2 2-3 3-4 4-6 5-5
+en ègratsa mài èna gràmma son aderfò- mmu {##} non ho scritto mai una lettera al mio fratello {##} 0-0 1-1 1-2 2-3 3-4 4-5 5-6 6-8 7-7
+evò en ìme grammèna mai an gràmma t aderfù- mmu {##} io non ho scritto mai una lettera al mio fratello {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-9 9-8
+adreffò- mmu e\' m\' o mai grammèna an gràmma {##} mio fratello non mi ha mai scritto una lettera {##} 0-1 1-0 2-2 3-3 4-4 5-5 6-6 7-7 8-8
+ègratsa ènan gràmma adrefù- mmu {##} ho scritto una lettera al mio fratello {##} 0-0 0-1 1-2 2-3 3-6 4-4 4-5
+i màna- mu ce o ciùri- mu e\' pìttane mài sin Grècia {##} mia mamma e mio padre non andarono mai in Grecia {##} 0-1 1-1 2-0 3-2 4-4 5-4 6-3 7-5 8-6 9-7 10-8 11-9
+en èchune pamèna {##} non sono andati {##} 0-0 1-1 2-2
+e dikì- mmu e màna- mu o ciùri- mu e màna- mu ce o ciùri- mu eh en èchune stammèna mai stin Grècia {##} la mia mia mamma mio padre mia mamma e mio padre eh non sono stati mai in Grecia {##} 0-0 1-1 2-1 3-3 4-3 5-2 7-5 8-4 9-7 10-7 11-6 12-8 13-10 14-10 15-9 16-11 17-12 18-13 19-14 20-15 21-16 22-17
+e derfì- mmu en è ertomèna mài ettù kùndu mèna {##} mia sorella non è venuta mai qui come io {##} 0-1 1-1 2-0 3-2 4-3 5-4 6-5 7-6 8-7 9-8
+e derfì- mu [...] en è ertomèna [...] ankòra ettù {##} la sorella mia si non è venuta ancora ancora qui {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9
+adreffì- mmu fùe pp\' òrkete etèli na diventèssi messèra {##} mia sorella quest' anno che viene vuole diventare dottoressa {##} 0-1 1-0 2-2 2-3 3-4 4-5 5-6 6-7 7-7 8-8
+e Valèria meletà o`' giornàle {##} Valeria legge il giornale {##} 0-0 1-0 2-1 3-2 4-3
+tin adreffì- mmu ankòra en ìrte ettù {##} mia sorella ancora non è venuta qui {##} 0-1 1-1 2-0 3-2 4-3 5-4 5-5 6-6
+Marìka esù èfe {##} Marika tu hai mangiato {##} 0-0 1-1 2-2 2-3
+ìse già famèna {##} hai già mangiato {##} 0-0 1-1 2-2
+en èchi famèna mài ènan rùstiko {##} non ha mangiato mai un rustico {##} 0-0 1-1 2-2 3-3 4-4 5-5
+e Màrika en è famèna mai a\'  rùstiko {##} Marika non ha mangiato mai un rustico {##} 0-0 1-0 2-1 3-2 4-3 5-4 6-5 7-6
+èchi già famèna {##} hai già mangiato {##} 0-0 1-1 2-2
+en èchete famèna mài ènan rùstiko {##} non avete mangiato mai un rustico {##} 0-0 1-1 2-2 3-3 4-4 5-5
+esì ìsesta famèna mai il pasticciòtto {##} voi avete mai mangiato il pasticciotto {##} 0-0 1-1 2-3 3-2 4-4 5-5
+Marìsa e Nìcho # en èchun famèna mai {##} Marisa e Nico ee non hanno mangiato mai {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7
+esù ta màretse ta làchana {##} tu le hai cucinati le verdure {##} 0-0 1-1 2-2 2-3 3-4 4-5
+na màti èna pràma na studiètsi èna pràma {##} che impara una cosa che studia una cosa {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7
+ìsesta maràta {##} siete cucinato {##} 0-0 1-1
+marètsato ta làchana {##} avete cucinato le verdure {##} 0-0 0-1 1-2 2-3
+ikàmato già ta làchana {##} avete fatto già le verdure {##} 0-0 0-1 1-2 2-3 3-4
+emarèssato ta làchana {##} avete cucinato le verdure {##} 0-0 0-1 1-2 2-3
+imarètsato la làchana {##} avete cucinato le verdure {##} 0-0 0-1 1-2 2-3
+èchete maràta ta làchana {##} avete cucinato le verdure {##} 0-0 1-1 2-2 3-3
+en ìme ankòra endimèni {##} non sono ancora vestita {##} 0-0 1-1 2-2 3-3
+ankòra en endìsimo {##} ancora non mi sono vestito {##} 0-0 1-1 2-2 2-3 2-4
+ipào ndimèno {##} vado vestito {##} 0-0 1-1
+ìme ndimèni {##} sono vestita {##} 0-0 1-1
+i kiatèra- mu itèli na pài {##} mia figlia vuole andare {##} 0-1 1-1 2-0 3-2 4-3 5-3
+ndìtimo {##} mi sono vestito {##} 1-1
+èstasa {##} arrivai {##} 1-1
+o plaùna tèli plimèno {##} il lenzuolo vuole lavato {##} 0-0 1-1 2-2 3-3
+mu bristì o dàttilo {##} mi si gonfiò il dito {##} 0-0 1-1 1-2 2-3 3-4
+mu prìsti to dàttilo {##} mi si gonfiò il dito {##} 0-0 1-1 1-2 2-3 3-4
+o dàttilo è primmèno {##} il dito si gonfiò {##} 0-0 1-1 2-2 3-3
+evò sti\' zoì- mmu ìme pànta polemimmèna {##} io nella mia vita ho sempre lavorato {##} 0-0 1-1 2-3 3-2 4-4 5-5 6-6
+o ciùri- mmu è polemimmèna pànta {##} mio padre ha lavorato sempre {##} 0-1 1-1 2-0 3-2 4-3 5-4
+ìme stammèna pànta techùddhi {##} sono stato sempre poveretti {##} 0-0 1-1 2-2 3-3
+iso traùdi èn grammèno pu ss\' èna poèta dikò- mma {##} questa canzone è scritta da un poeta nostro {##} 0-0 1-1 2-2 3-3 4-4 5-4 6-5 7-6 8-7 9-7
+itèli na pài Luppìu na {##} vuole andare a Lecce {##} 0-0 1-1 2-1 3-3 4-2
+ìrte grammèno {##} venne scritto {##} 0-0 1-1
+pu ss\' èna famòso poèta {##} da da un famoso poeta {##} 0-0 1-1 2-2 3-3 4-4
+ìso traùdi ìrte grammèno tèsseru chrònu ampì {##} questa canzone venne scritta quattro anni fa {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6
+tùtto travùdi ee ton ègratse èna poèta {##} questa canzone ee l' ha scritta un poeta {##} 0-0 1-1 2-2 3-3 4-4 4-5 5-6 6-7
+ìrte grammèno {##} venne scritto {##} 0-0 1-1
+to ègratse {##} l' ha scritta {##} 0-0 1-1 1-2
+tùso travùdi ìrte grammèno poddhù chrònu ampì atto poèta dikò- mma {##} questa canzone venne scritta molti anni fa da un nostro poeta {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 7-8 8-10 9-9 10-9
+a kàjo traùdia a sòzi gràtsi i nìtta {##} le migliori canzoni le puoi scrivere la notte {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7
+a traùdia gràfutte tse nìtta {##} le canzone si scrivono alla notte {##} 0-0 1-1 2-2 2-3 3-4 4-5
+ta travùdia plèon òrria èrkutte grammèna si nìtta {##} le canzoni più belle sono scritti nella notte {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7
+e Marìa àrtena ste mbrò s\' emèna ma ste plònni {##} Maria ora sta vicino a me ma sta dormendo {##} 0-0 1-0 2-1 3-2 4-3 5-4 6-5 7-6 8-7 9-8
+ta kàjo travùdia igràfutte atsè nìtta {##} le buone canzoni si scrivono alla notte {##} 0-0 1-1 2-2 3-3 3-4 4-5 5-6
+èglasa mia buttìglia {##} ho rotto una bottiglia {##} 0-0 0-1 1-2 2-3
+esù pòse bottìglie ìse glammèna dèka {##} tu quante bottiglie hai rotto dieci {##} 0-0 1-1 2-2 3-3 4-4 5-5
+eglàsti e còppa {##} si è rotta la coppa {##} 0-0 0-1 0-2 1-3 2-4
+a petàcia kèccia us endìnnune i genitòri {##} i bambini piccoli li vestono i genitori {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6
+èrkutte ndimèna {##} vengono vestiti {##} 0-0 1-1
+a petàcia kèccia a ndìnnune i genitòri {##} i bambini piccoli li vestono i genitori {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6
+ta pedìa mincià èrkutte ndimèni àtton ciùri ce àtti màna {##} i bambini piccoli vengono vestiti dal padre e dalla madre {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9
+èrkutte ndimèni àttus genitòru {##} vengono vestiti dai genitori {##} 0-0 1-1 2-2 3-3
+tus indìnnone i genitòri {##} li vestono i genitori {##} 0-0 1-1 2-2 3-3
+ste plònni {##} sta dormendo {##} 0-0 1-1
+a petàcia kèccia forà endìnnotte pùru manechà- tu {##} i bambini piccoli a volte si vestono pure da soli {##} 0-0 1-1 2-2 3-3 3-4 4-5 4-6 5-7 6-8 6-9 7-8 7-9
+ta pedìa mincià en indìnnutte manichò- tto {##} i bambini piccoli non si vestono da soli {##} 0-0 1-1 2-2 3-3 4-4 4-5 5-6 5-7 6-6 6-7
+ta petìa en indìnnotte manechà- tu {##} i bambini non si vestono da soli {##} 0-0 1-1 2-2 3-3 3-4 4-5 4-6 5-5 5-6
+o marìo tèli famèno appèna o marèi ka è plèo saporìto {##} il cibo vuole mangiato appena lo cucini che è più saporito {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10
+e\' tèli # famèno oli mia forà {##} non vuole mangiato mangiato tutta una volta {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6
+to fài ee tèli famèno sùbito è prèsto {##} il cibo ee vuole mangiato subito e presto {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7
+o marìo etèli famèno appèna o marèi {##} il cibo vuole mangiato appena lo cucini {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6
+tèli tèli famèno tremmò {##} vuole vuole mangiato caldo {##} 0-0 1-1 2-2 3-3
+òlo o marìo tèli votimmèno {##} tutto il cibo vuole girato {##} 0-0 1-1 2-2 3-3 4-4
+e marangiàne è\' nese girètsi dòpu e marèi {##} le melanzane devono girarsi dopo le cucini {##} 0-0 1-1 2-2 3-3 4-3 5-4 6-5 7-6
+ste ce plònni sto gràtti {##} sta e dorme nel letto {##} 0-0 1-1 2-2 3-3 4-4
+tèlune votimmène {##} vogliono girate {##} 0-0 1-1
+tes marangiàne tèlune ee votimmène {##} le melanzane vogliono ee girate {##} 0-0 1-1 2-2 3-3 4-4
+e marangiàne etèlun votimmène {##} le melanzane vogliono girate {##} 0-0 1-1 2-2 3-3
+i marangiàne itèlune votimmène {##} le melanzane vogliono girate {##} 0-0 1-1 2-2 3-3
+o apesammèno o klèone o klèone òli i familiàri {##} il morto lo piangono lo piangono tutti i familiari {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8
+klèete {##} si piange {##} 1-1
+o pesammèno tèli glammèno {##} il morto vuole pianto {##} 0-0 1-1 2-2 3-3
+ton apesammèno tèli glemmèno {##} il morto vuole pianto {##} 0-0 1-1 2-2 3-3
+etèli klammèno {##} vuole pianto {##} 0-0 1-1
+kanèna sto telèfono tèli na tsèri àttin Anna {##} qualcuno al telefono vuole sapere dell' Anna {##} 0-0 1-1 2-2 3-3 4-4 5-4 6-5 7-6
+o apetammèno iklèete {##} il morto si piange {##} 0-0 1-1 2-2 2-3
+itèli klammèno {##} vuole pianto {##} 0-0 1-1
+e màkina tèli stiammèni atto\' mekkàniko {##} la macchina vuole riparata dal meccanico {##} 0-0 1-1 2-2 3-3 4-4 5-5
+e màkina eklàsti ce etèli tiammèni àtto\' màstora {##} la macchina si è rotta e vuole riparate dal meccanico {##} 0-0 1-1 2-2 2-3 2-4 3-5 4-6 5-7 6-8 7-9
+i màkina tèli stiammèni àtto\' mekkàniko {##} la macchina vuole riparata dal meccanico {##} 0-0 1-1 2-2 3-3 4-4 5-5
+o àbbeto u korasìu è\' na ne àspro {##} il vestito della sposa deve essere bianco {##} 0-0 1-1 2-2 2-3 3-3 4-4 5-5 6-5 7-6
+o àbbito u korasìu tèli àspro {##} il vestito della sposa vuole bianco {##} 0-0 1-1 2-2 3-3 4-4 5-5
+ton àbbeto atsè koràsi tèli àspro {##} il vestito della sposa vuole bianco {##} 0-0 1-1 2-2 3-3 4-4 5-5
+o àbbeto àtto koràsi koràsi si ee ee etèli àspro {##} il abito della sposa corassi si chiama la sposa ee ee vuole bianco {##} 0-0 1-1 2-2 3-3 4-4 5-5 5-6 5-7 5-8 6-9 7-10 8-11 9-12
+è\' na ène àspro {##} deve essere bianco {##} 0-0 1-1 2-1 3-2
+i Anna àrtena stèi ittumbrò se mèna ste plònni {##} Anna ora sta vicino a me dormendo {##} 0-0 1-0 2-1 3-2 4-3 5-4 6-5 7-6 8-6
+tèli àspro {##} vuole bianco {##} 0-0 1-1
+sti\' pàsta tèli àla {##} nella pasta vuole sale {##} 0-0 1-1 2-2 3-3
+i pàsta tèli àla {##} la pasta vuole sale {##} 0-0 1-1 2-2 3-3
+sti\' pàsta vàle àla etèli t\' àla {##} nella pasta metti sale vuole il sale {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6
+i pàsta tèli àla {##} la pasta vuole sale {##} 0-0 1-1 2-2 3-3
+i pàsta ìtele àla {##} la pasta vuole sale {##} 0-0 1-1 2-2 3-3
+a me sti\' pàsta ìche telìsonta àla t\' ùcha vàlonta {##} se nella nella pasta voleva sale l' avevo messo {##} 0-0 1-1 2-2 3-3 4-4 5-4 6-5 7-6 8-7 9-8
+se ti\' pàsta ìtele àla ton ìcha vàlonta {##} se la pasta voleva sale lo avevo messo {##} 0-0 1-1 2-2 3-3 4-4 5-5 5-6 5-7 6-6 7-7
+si i pàsta ìche telìsonta àla to ìcha vàlonta {##} se la pasta aveva voluto sale lo avevo messo {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8
+èvala ènan jalì sto\' tìcho {##} ho messo uno specchio sul muro {##} 0-0 0-1 1-2 2-3 3-4 4-5
+estèo sto telèfono e adreffì- mmu e\' tin èchi estè ce plònni {##} stavo al telefono e mia sorella non la è sta e dorme {##} 0-0 1-1 2-2 3-3 4-5 5-4 6-6 7-7 8-8 9-9 10-10 11-11
+sto\' tìcho tèli o jalì {##} sul muro vuole uno specchio {##} 0-0 1-1 2-2 3-3 4-4
+cìtto tìcho tèli ènan jalì {##} questo muro vuole uno specchio {##} 0-0 1-1 2-2 3-3 4-4
+o tìcho tèli nan ghialì {##} il muro vuole uno specchio {##} 0-0 1-1 2-2 3-3 4-4
+sto tìcho tèli o jelì {##} sul muro vuole uno specchio {##} 0-0 1-1 2-2 3-3 4-4
+o tìcho tèli ènan jalì {##} il muro vuole uno specchio {##} 0-0 1-1 2-2 3-3 4-4
+ettù mèsa tèli èna tappèto {##} qui dentro vuole un tappeto {##} 0-0 1-1 2-2 3-3 4-4
+ciù mèsa è\' na vàli èna tappèto {##} qui dentro deve mettere un tappeto {##} 0-0 1-1 2-2 3-3 4-3 5-4 6-5
+ìtela e Marìa àvvri na rti s\' emèna {##} volevo Maria domani di venire da me {##} 0-0 1-1 2-1 3-2 4-3 5-4 6-5 7-6
+tèlo e Marìa na\' rti àvvri {##} voglio che Maria viene domani {##} 0-0 1-2 2-2 3-1 4-3 5-4
+tèlo ka i Marìa è\' na\' rti àvvri {##} voglio che Maria è di venire domani {##} 0-0 1-1 2-2 3-2 4-3 5-4 6-5 7-6
+e Marìa però stèi àrtena stèi kammèni sto\' cìpo ce e\' sòzzi rispondètsi sto telèfono e\' sòzzi milìsi sto telèfono {##} Marìa però sta ora sta seduta nel giardino e non può rispondere al telefono non può parlare al telefono {##} 0-0 1-0 2-1 3-2 4-3 5-4 6-5 7-6 8-7 9-8 10-9 11-10 12-11 13-12 14-13 15-14 16-15 17-16 18-17 19-18
+e jinèka tèli na pulizzèssi o spiti kuài mèri na stasì pulita {##} la donna vuole pulire la casa ogni giorno per stare pulita {##} 0-0 1-1 2-2 3-3 4-3 5-4 6-5 7-6 8-7 9-8 10-9 11-10
+evò tèlo na rti e Marìa ettù {##} io voglio che Maria venga qui {##} 0-0 1-1 2-2 3-4 4-3 5-3 6-5
+itèlo ka i Marìa na\' rti àvvri {##} voglio che Maria che venga domani {##} 0-0 1-1 2-2 3-2 4-3 5-4 6-5
+itèlo i Marìa na\' rti àvvri {##} voglio che Maria venga domani {##} 0-0 1-2 2-2 3-1 4-3 5-4
+itèlo na\' rti àvvri i Marìa {##} voglio che Maria venga domani {##} 0-0 1-1 2-3 3-4 4-2 5-2
+ndìsonta on aderfò- mmu on ìcha pàronta defòre ma mèna {##} vestito il mio fratello lo avevo portato fuori con me {##} 0-0 1-1 2-3 3-2 4-4 5-5 6-6 7-7 8-8 9-9
+zìsonta e kiatèra- mu in ìcha pàronta stin aglisìa {##} vivendo la mia figlia la avevo portata alla chiesa {##} 0-0 1-1 2-3 3-2 4-4 5-5 6-6 7-7 8-8
+an ìcha ndìsonta i kiatèra in ìcha pàronta stin aglisìa {##} se si era vestito la figlia l' avessi portata alla chiesa {##} 0-0 1-1 1-2 2-3 3-4 4-5 5-6 6-7 7-8 8-9 9-10
+an ìcha ndìsonta i kiatèra- mu tin ìcha pàronta sin aglisìa {##} se si era vestita la mia figlia l' avessi portata alla chiesa {##} 0-0 1-1 1-2 2-3 3-4 4-6 5-5 6-7 7-8 8-9 9-10 10-11
+an ìche ndìsonta i kiatèra in ìcha pàronta stin aglisìa {##} se aveva vestito la figlia l' avessi portato alla chiesa {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9
+ndìsonta ti\' kiatèra tin ìcha pàronta stin aglisìa {##} vestita la figlia l' avevo portata alla chiesa {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7
+ste kammèni sto\' giardìno sto\' cìpo {##} sta seduta nel giardino nel giardino {##} 0-0 1-1 2-2 3-3 4-4 5-5
+an ìche ndisònta o aderfò- mmu on ìcha pàronta ma mèna {##} se si era vestito il mio fratello l' avessi portato con me {##} 0-0 1-1 1-2 2-3 3-4 4-6 5-5 6-7 7-8 8-9 9-10 10-11
+an ìche ndisònta o aderfò- mmu on ìcha pàronta ma mèna {##} se si era vestito il mio fratello l' avessi portato con me {##} 0-0 1-1 1-2 2-3 3-4 4-6 5-5 6-7 7-8 8-9 9-10 10-11
+an ìche ndisònta o atreffò- mmu on ìcha pàronta me mea {##} se si era vestito il mio fratello l' avessi portato con me {##} 0-0 1-1 1-2 2-3 3-4 4-6 5-5 6-7 7-8 8-9 9-10 10-11
+nditònta {##} essendosi vestito {##} 1-1
+on ìkusa ka èrkato {##} l' ho sentito che veniva {##} 0-0 1-1 1-2 2-3 3-4
+on ìkusa na\' rti {##} l' ho sentito che viene {##} 0-0 1-1 1-2 2-3 3-4
+ton ìkusa ee ka èstazze {##} lo sentii ee che arrivava {##} 0-0 1-1 2-2 3-3 4-4
+ton ìkusa na\' rti {##} lo sentii che viene {##} 0-0 1-1 2-2 3-3
+ton ìkusa mòtte èrkato {##} l' ho sentito quando veniva {##} 0-0 1-1 1-2 2-3 3-4
+ton ìkusa ka ìrte {##} lo sentii che arrivò {##} 0-0 1-1 2-2 3-3
+stèi kasimmèni ston ghiardìno {##} sta seduta nel giardino {##} 0-0 1-1 2-2 3-3
+o lìko en pratì mài nemmèno min alipùna {##} il lupo non cammina mai nemmeno con la volpe {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 6-7 7-8
+ta koràsia tèlone kanonimmèna {##} le ragazze vogliono guardate {##} 0-0 1-1 2-2 3-3
+spìccetsa àtse gràtsi {##} ho finito di scrivere {##} 0-0 0-1 1-2 2-3
+àrte spìccetsa tse gràtsi {##} ora ho finito di scrivere {##} 0-0 1-1 1-2 2-3 3-4
+to spìccetsa atsè kàmi {##} lo ho finito di fare {##} 0-0 1-1 1-2 2-3 3-4
+en espìccetsa o sòzo spiccètsi tse gràtsi {##} non ho finito lo posso finire di scrivere {##} 0-0 1-1 1-2 2-3 3-4 4-5 5-6 6-7
+o sòzo spiccètsi àtse gràtsi {##} lo posso finire di scrivere {##} 0-0 1-1 2-2 3-3 4-4
+to sòzo spiccètsi tsè kàmi {##} lo posso finire di fare {##} 0-0 1-1 2-2 3-3 4-4
+è perikolòso na narètsi àtse nìtta {##} è pericoloso di nuotare di notte {##} 0-0 1-1 2-2 3-3 4-4 5-5
+è perikulòso na natètsi atsè nìtta {##} è pericoloso di nuotare nella notte {##} 0-0 1-1 2-2 3-3 4-4 5-5
+evò en ìme ankòra prònta nghìzi na rti stes ettò {##} io non sono ancora pronta bisogna venire alle sette {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-6 8-7 9-8
+o krasì kalò e\' na ène anvekkiàto {##} il vino buono deve essere invecchiato {##} 0-0 1-1 2-2 3-3 4-4 5-4 6-5
+è\' na katàro ton àrburo {##} devo pulire l' albero {##} 0-0 1-1 2-1 3-2 4-3
+Marìka è\' na\' rmastì àvvri {##} Marika è che si sposa domani {##} 0-0 1-1 2-2 3-3 3-4 4-5
+an èrkese ses ettà ste ankòra marèo {##} se vieni alle sette sto ancora cucinando {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6
+an èrti ses ettà an de\' min dèla plèo ka e\' m\' èchi {##} se vieni alle sette se no non vieni più che non mi ha {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12
+min dèla àlle sètte ka vò en ìme prònta {##} non vieni alle sette perchè io non sono pronta {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8
+an èrti ses ittà ankòra en è prònto {##} se vieni alle sette ancora non è pronto {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7
+ankòra ste marèo ce en ìne prònto {##} ancora sto cucinando e non sono pronto {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-3 6-4 6-5 6-6
+an èrti stes ettà evò ste marèo {##} se vieni alle sette io sto cucinando {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6
+an èrti stes ettà evò ste marèo {##} se vieni alle sette io sto cucinando {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6
+e jinèka ène kapàce na pulizzèssi è\' na pulizzèssi o spìti ka mèri {##} la donna è capace pulire deve pulire la casa ogni giorno {##} 0-0 1-1 2-2 3-3 4-4 5-4 6-5 7-6 8-6 9-7 10-8 11-9 12-10
+estè ce marèo {##} sto e cucino {##} 0-0 1-1 2-2
+ce pu marèo {##} e che cucino {##} 0-0 1-1 2-2
+ste ankòra marèonta {##} sto ancora cucinando {##} 0-0 1-1 2-2
+mòtte èstase o Giuvànni tin Anna ìstine ankòra marèonta {##} quando è arrivato Giovanni Anna stava ancora cucinando {##} 0-0 1-1 1-2 2-3 3-3 4-4 5-4 6-5 7-6 8-7
+mòtti ìrte èttase o Giuvànni e Anna ankòra ìche na marèssi {##} quando venne arrivò Giovanni Anna ancora aveva di cucinare {##} 0-0 1-1 2-2 3-3 4-3 5-4 6-4 7-5 8-6 9-7 10-8
+sàtte o Giovànni èstase èstase sto spìti o èssu ankòra ce pu màregghe {##} quando Giovanni è arrivato è arrivato alla casa o a casa ancora e cucina {##} 0-0 1-1 2-1 3-2 3-3 4-4 4-5 5-6 6-7 7-8 8-9 8-10 9-11 10-12 11-13 12-13
+ìstigghe ankòra marèonta {##} stava ancora cucinando {##} 0-0 1-1 2-2
+mòtti èttase o Giovànni e Anna ìstigghe c èplonne {##} quando è arrivato Giovanni Anna stava e dormiva {##} 0-0 1-1 1-2 2-3 3-3 4-4 5-4 6-5 7-6 8-7
+mòtti ìrte o Giovànni e Anna già ìche plòsonta {##} quando venne Giovanni Anna aveva già dormito {##} 0-0 1-1 2-2 3-2 4-3 5-3 6-5 7-4 8-6
+evò dòpo jurìzo vekkiarèdda pulò spìti- mu ka ècho Venèzia stin Venèzia ce èrkome na zìso ettù sti\' Kalimèro {##} io dopo torno vecchia vendo mia casa che ho Venezia a Venezia e vengo da vivere qui a Kalimara {##} 0-0 1-1 2-2 3-3 4-4 5-6 6-5 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18
+e jinèka pulizzèi o spìti o àntrepo dègghe {##} la donna pulisce la casa l' uomo no {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7
+mòtte jènnome vèkkia pulò to spìti a pu Trièste ce èrkome ittù na zìso si tàlassa {##} quando divento vecchia vendo la casa in in Trieste e vengo qui da vivere al mare {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15
+mòtti ivò eghènnome vèkkia epulò o spìti epulò o spìti pu Trièste èrkome ce abitèo e\' Martàna {##} quando io divento vecchia vendo la casa vendo la casa a Trieste vengo e abito a Martano {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16
+mòtte jènome vèkkio pulò to spìti- mu ce pào sti\' tàlassa na zìso {##} quando divento vecchio vendo mia casa e vado a vivere al mare {##} 0-0 1-1 2-2 3-3 4-5 5-5 6-4 7-6 8-7 9-10 10-11 11-8 12-9
+emì decidètsamo ka sìmmeri ìchamo na pàme sti spiàggia m\' on aderfò- mu però cìno ìtsere ka kànni fiàkka ce en ìrte ma ma ecì ka e tàlassa e\' piacei dòpu è tsichrò {##} noo abbiamo deciso che oggi avevamo andare alla spiaggia con mio fratello però lui sapeva che faceva freddo e non è venuto ma ma lì che il mare non mi piace quando fa freddo {##} 0-0 1-1 1-2 2-3 3-4 4-5 5-6 6-6 7-7 8-8 9-9 10-11 11-11 12-10 13-12 14-13 15-14 16-15 17-16 18-17 19-18 20-19 21-20 21-21 22-22 23-23 24-24 25-25 26-26 27-27 28-28 29-29 29-30 30-31 31-32 32-33
+ettè decidètsamo ka sìmmeri pàme sti spiàggia {##} ieri abbiamo deciso che oggi andiamo alla spiaggia {##} 0-0 1-1 1-2 2-3 3-4 4-5 5-6 6-7
+ettè decidètsamo na pàme si tàlassa òli ma ton aderfò- mu è\' tese na\' rti {##} ieri abbiamo deciso di andare al mare tutti ma mio fratello non voleva venire {##} 0-0 1-1 1-2 2-3 3-4 4-5 5-6 6-7 7-8 8-10 9-10 10-9 11-11 12-12 13-13 14-13
+sìmberi decidèssamo na pàme sti\' tàlassa sti spiàggia epìrtato òli solamènte o adreffò- mmu ndè {##} oggi abbiamo deciso di andare al mare alla spiaggia sono andati tutti solamente mio fratello non {##} 0-0 1-1 1-2 2-3 3-4 4-5 5-6 6-7 7-8 8-9 8-10 9-11 10-12 11-14 12-14 13-13 14-15
+cìno ìtsere ka sìmmeri è frìsko è tsichrò ce en èkanne o\' bàgno {##} lui sapeva che oggi fa freddo fa freddo e non ha fatto il bagno {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 10-11 11-12 12-13
+cìno ìtsere ka sìmmeri ìche na kàmi frìsko o tsìchra ce en ìsoze kàmi o bàgno {##} lui sapeva che oggi stava per fare freddo o freddo e non poteva fare il bagno {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15
+cìo ìssere ka sìmberi kànni ssìchra ce e\' tèlise na rti {##} lui sapeva che oggi fa freddo e non ha voluto venire {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 8-9 9-10 10-10
+ka ìssere ka e\' sòzi kài o\' bàgno {##} che sapeva che non può fare il bagno {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7
+ìtsere ka kànni tsìchra ce en ìche na natètsi {##} sapeva che fa freddo e non aveva di nuotare {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8
+emì se gapùme s\' esèna ts\' alìes emère ce e\' se sòzome scerètsi mài tse cìno ka vrìkamo kalò s\' esèna {##} noi ti amiamo a te di pocchi giorni e non ti possiamo dimenticare mai di questo che trocammo bene a te {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18 19-19 20-20
+pùru ka se torò mìa forà en se scerrèo mài {##} pure che ti vedo una volta non ti dimentico mai {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9
+pùru ka s\' ìta mia forà solamènte e\' s\' allimonò mài {##} pure che ti ho visto una volta solamente non ti dimentico mai {##} 0-0 1-1 2-2 3-3 3-4 4-5 5-6 6-7 7-8 8-9 9-10 10-11
+e\' se allimonùme mài {##} non ti dimentichiamo mai {##} 0-0 1-1 2-2 3-3
+i màna ce o ciùri en è en è no scerrètsoma mài jatì ma dòkane i zoì ce agàpi {##} la madre e il padre non è non è che li dimentichiamo mai perchè ci hanno dato la vita e amore {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 9-10 10-11 11-12 12-13 13-14 14-15 14-16 15-17 16-18 17-19 18-20
+u genitòru en è\' nus scerrètsume mài {##} i genitori non li dimentichiamo mai {##} 0-0 1-1 2-2 4-3 5-4 6-5
+u genitòru en è nus allimonìsome mai {##} i genitori non è che li dimentichiamo mai {##} 0-0 1-1 2-2 3-3 4-4 4-5 5-6 6-7
+en è\' n\' allimonìsume mai tus ta ciùria- ma tes màne {##} non è li dimentichiamo mai i i padri e le madri {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10
+ti kànni e Anna o sàmba pornò {##} cosa fa Anna il sabato mattina {##} 0-0 1-1 2-2 3-2 4-3 5-4 6-5
+àttus genitòru {##} dei genitori {##} 0-0 1-1
+en è\' na allimonistùmesta mài {##} non ci dimentichiamo mai {##} 0-0 2-1 3-2 4-3
+a petàcia e\' to sòzume e\' sòzun fài o gelào prìma na fàne {##} i bambini non lo possiamo non possono mangiare il gelato prima che mangiano {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12
+prìma na pài sti skòla {##} prima di andare alla scuola {##} 0-0 1-1 2-2 3-3 4-4
+a petìa e\' sòzune fài e\' sòzun fài o gelào pròppi fài {##} i bambini non possono mangiare non possono mangiare il gelato prima di mangiare {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 10-11 11-12
+ta pedìa e\' sòzune fài to gelào prìta ka na fàne {##} i bambini non possono mangiare il gelato prima che che mangiano {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10
+a kèccia a rèti e\' sòzun fài o gelào prìma ka na fane prìma na fàne {##} i piccoli i bambini non possono mangiare il gelato prima di mangiare prima di mangiare {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-6 8-7 8-8 9-9 10-10 11-11 12-11 13-12 14-13 15-14
+ta petìa e\' sòzune fài to gelàto prìma ka na fàne {##} i bambini non possono mangiare il gelato prima di mangiare {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-9
+na mi\'  tus mìnome {##} che non li aspettiamo {##} 0-0 1-1 2-2 3-3
+en è\' na tus mìnome {##} non ha che li aspettiamo {##} 0-0 1-1 2-2 3-3 4-4
+i màna- mu ipulìzze to spìti kài mèri {##} mia mamma puliva la casa ogni giorno {##} 0-1 1-1 2-0 3-2 4-3 5-4 6-5 7-6
+cìni en èrkotte e\' tus mènome tròme {##} loro non vengono non li aspettiamo mangiamo {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6
+e\' tus mènume plèo {##} non li aspettiamo più {##} 0-0 1-1 2-2 3-3
+na mi\' tus mìnome {##} che non li aspetiamo {##} 0-0 1-1 2-2 3-3
+àrte ka cìni en èrkotte plèo {##} ora che loro non vengono più {##} 0-0 1-1 2-2 3-3 4-4 5-5
+mì me mìni ka en èrkome {##} non mi aspetti che non vengo {##} 0-0 1-1 2-2 3-3 4-4 5-5
+mì\' me mìni en èrkome {##} non mi aspetti non vengo {##} 0-0 1-1 2-2 3-3 4-4
+mì me mìne ka en èrkume {##} non mi aspetti che non vengo {##} 0-0 1-1 2-2 3-3 4-4 5-5
+an èrtin èssu- mu kuài sàmba vòraso tsomì na fèri {##} se vieni a casa mia ogni sabato compra pane di portare {##} 0-0 1-1 2-2 2-3 3-4 4-5 5-6 6-7 7-8 8-9 9-10
+an èrti èssu kuài sàmba {##} se vieni a casa ogni sabato {##} 0-0 1-1 2-2 2-3 3-4 4-5
+an èrkese kai mèri èssu- mu avòraso to tsomì {##} se vieni ogni giorno a casa mia compra il pane {##} 0-0 1-1 2-2 3-3 4-4 4-5 5-6 6-7 7-8 8-9
+o messère mu\' pe ka en è\' na fào glicèa ja mu kànnone dànno is emèna mu piacèone ce ta tròo {##} il medico mi ha detto che non devo mangiare dolci perché mi fanno male a me mi piacciono e li mangio {##} 0-0 1-1 2-2 3-3 3-4 4-5 5-6 6-7 7-8 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18 19-19 20-20
+an èrkese kuài sàmba su voràzo o tsomì {##} se vieni ogni sabato ti compro il pane {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7
+kuài mèri nghìzi na voràsome o tsomì {##} ogni giorno bisogna che compriamo il pane {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6
+è\' na voràso o tsomì kuài kuài mèri {##} devo comprare il pane ogni ogni giorno {##} 0-0 1-1 2-1 3-2 4-3 5-4 6-5 7-6
+è\' na voràso to tsomì kai mèri {##} devo comprare il pane ogni giorno {##} 0-0 1-1 2-1 3-2 4-3 5-4 6-5
+è\' na voràso o ssomì ka mèri {##} devo comprare il pane ogni giorno {##} 0-0 1-1 2-1 3-2 4-3 5-4 6-5
+è\' na aforàso to tsomì pàssin imèra {##} devo comprare il pane ogni giorno {##} 0-0 1-1 2-1 3-2 4-3 5-4 6-5
+ìcha na voràso tsomì kuài mèri {##} dovevo comprare pane ogni giorno {##} 0-0 1-1 2-1 3-2 4-3 5-4
+ìcha na voràso o tsomì kuài mèri {##} dovevo comprare il pane ogni giorno {##} 0-0 1-1 2-1 3-2 4-3 5-4 6-5
+ìcha na voràso to tsomì kài mèri {##} dovevo comprare il pane ogni giorno {##} 0-0 1-1 2-1 3-2 4-3 5-4 6-5
+ìcha na agoràso o ssomì ka mèri {##} dovevo comprare il pane ogni giorno {##} 0-0 1-1 2-1 3-2 4-3 5-4 6-5
+o messère mu pe na min fào glicèata però emèa mu piacèone ce ta tròo {##} il medico mi ha detto di non mangiare dolci però a me mi piacciono e li mangio {##} 0-0 1-1 2-2 3-3 3-4 4-5 5-6 6-7 7-8 8-9 9-10 9-11 10-12 11-13 12-14 13-15 14-16

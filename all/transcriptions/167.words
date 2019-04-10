@@ -1,0 +1,1 @@
+en etsèro ti gràfi
