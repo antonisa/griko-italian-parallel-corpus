@@ -131,8 +131,8 @@ ankòra en endìsimo {##} ancora non mi sono vestito {##} 0-0 1-1 2-2 2-3 2-4
 ipào ndimèno {##} vado vestito {##} 0-0 1-1
 ìme ndimèni {##} sono vestita {##} 0-0 1-1
 i kiatèra- mu itèli na pài {##} mia figlia vuole andare {##} 0-1 1-1 2-0 3-2 4-3 5-3
-ndìtimo {##} mi sono vestito {##} 1-1
-èstasa {##} arrivai {##} 1-1
+ndìtimo {##} mi sono vestito {##} 0-0 0-1 0-2
+èstasa {##} arrivai {##} 0-0
 o plaùna tèli plimèno {##} il lenzuolo vuole lavato {##} 0-0 1-1 2-2 3-3
 mu bristì o dàttilo {##} mi si gonfiò il dito {##} 0-0 1-1 1-2 2-3 3-4
 mu prìsti to dàttilo {##} mi si gonfiò il dito {##} 0-0 1-1 1-2 2-3 3-4
@@ -180,7 +180,7 @@ tes marangiàne tèlune ee votimmène {##} le melanzane vogliono ee girate {##} 
 e marangiàne etèlun votimmène {##} le melanzane vogliono girate {##} 0-0 1-1 2-2 3-3
 i marangiàne itèlune votimmène {##} le melanzane vogliono girate {##} 0-0 1-1 2-2 3-3
 o apesammèno o klèone o klèone òli i familiàri {##} il morto lo piangono lo piangono tutti i familiari {##} 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8
-klèete {##} si piange {##} 1-1
+klèete {##} si piange {##} 0-0 0-1
 o pesammèno tèli glammèno {##} il morto vuole pianto {##} 0-0 1-1 2-2 3-3
 ton apesammèno tèli glemmèno {##} il morto vuole pianto {##} 0-0 1-1 2-2 3-3
 etèli klammèno {##} vuole pianto {##} 0-0 1-1
@@ -233,7 +233,7 @@ ste kammèni sto\' giardìno sto\' cìpo {##} sta seduta nel giardino nel giardi
 an ìche ndisònta o aderfò- mmu on ìcha pàronta ma mèna {##} se si era vestito il mio fratello l' avessi portato con me {##} 0-0 1-1 1-2 2-3 3-4 4-6 5-5 6-7 7-8 8-9 9-10 10-11
 an ìche ndisònta o aderfò- mmu on ìcha pàronta ma mèna {##} se si era vestito il mio fratello l' avessi portato con me {##} 0-0 1-1 1-2 2-3 3-4 4-6 5-5 6-7 7-8 8-9 9-10 10-11
 an ìche ndisònta o atreffò- mmu on ìcha pàronta me mea {##} se si era vestito il mio fratello l' avessi portato con me {##} 0-0 1-1 1-2 2-3 3-4 4-6 5-5 6-7 7-8 8-9 9-10 10-11
-nditònta {##} essendosi vestito {##} 1-1
+nditònta {##} essendosi vestito {##} 0-0 0-1
 on ìkusa ka èrkato {##} l' ho sentito che veniva {##} 0-0 1-1 1-2 2-3 3-4
 on ìkusa na\' rti {##} l' ho sentito che viene {##} 0-0 1-1 1-2 2-3 3-4
 ton ìkusa ee ka èstazze {##} lo sentii ee che arrivava {##} 0-0 1-1 2-2 3-3 4-4
